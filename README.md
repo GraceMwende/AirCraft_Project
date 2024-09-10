@@ -8,6 +8,7 @@ Our Company is expanding and wants to venture in purchasing and operating airpla
 
 ## Data Understanding
 The data is an aviation dataset from the National Transportation safety board that includes aviation accidents from 1962 to 2023 about civil aviation accidents and selected incidents in the United states and international waters.Every accidents / incident has:
+
 i) the category it falls into i.e (<font color='red'>Minor, Fatal,Non-fatal,serious or incidents</font>)
 
 ii)The level of damage to the aircraft i.e (<font color='red'>Destroyed, substantial or minor</font>)
@@ -55,3 +56,9 @@ This analysis leads to the following recommendations on the best aicraft to purc
 1. For private enterprise the low risk is `Boeing 747-123`overall while commercial is `Cessna 421B` followed by `Boeing 727-22C`
 2. If priority is on minor injury severity than aircraft damage then `Rockwell 700` and `Robinson 411` are preferrable for private venture and `Learjet 45` followed by `Boeing A75NI` for commercial
 3. Overall make to consider is `Cessna, Boeing ,Piper,and Beech `
+
+### Repository Structure
+├── data
+├── README.md
+├── Aviation_Presentation.pdf
+└── aviation.ipynb
