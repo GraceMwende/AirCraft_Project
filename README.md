@@ -57,10 +57,15 @@ This analysis leads to the following recommendations on the best aicraft to purc
 2. If priority is on minor injury severity than aircraft damage then `Rockwell 700` and `Robinson 411` are preferrable for private venture and `Learjet 45` followed by `Boeing A75NI` for commercial
 3. Overall make to consider is `Cessna, Boeing ,Piper,and Beech `
 
+### Tableau Link
+https://public.tableau.com/app/profile/grace.mwende/viz/Phase1project/Dashboard1
+### Presentation Link
+https://github.com/GraceMwende/AirCraft_Project/blob/master/Aviation_Presentation.pdf
 ### Repository Structure
 ```
 ├── data
 ├── README.md
 ├── Aviation_Presentation.pdf
-└── aviation.ipynb
+├── aviation.ipynb
+└── aviation.pdf
 ```
