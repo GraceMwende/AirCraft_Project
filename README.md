@@ -2,20 +2,20 @@
 ## Overview
 This project analyzes aircrafts accidents and incidents to deterrmine the low risk aicraft that aircraft a company can purchase as it begins operations in the aviation industry
 ## Business Problem
-Our Company is expanding and wants to venture in purchasing and operating airplanes for commercial and private enterprises, but do not know the potential risks of aicrcrafts. we are tasked to determine which aircraft are the lowest risk for the company t start this new business endeavor.Translate finds into actionable insights that the head of the new aviation division can help decide which aicraft to purchase
+Our Company is expanding and wants to venture in purchasing and operating aircrafts for commercial and private enterprises, but do not know the potential risks of aircrafts. we are tasked to determine which aircraft are the lowest risk for the company to start this new business endeavor. We then translate finds into actionable insights that the head of the new aviation division can help decide which aiecraft to purchase
 
 ![](airplane.jpg)
 
 ## Data Understanding
-The data is an aviation dataset from the National Transportation safety board that includes aviation accidents from 1962 to 2023 about civil aviation accidents and selected incidents in the United states and international waters.Every accidents / incident has:
+The data is an aviation dataset from the National Transportation safety board that includes aviation accidents from 1962 to 2023 about civil aviation accidents and selected incidents in the United states and international waters. Every accidents / incident has:
 
-i) the category it falls into i.e (<font color='red'>Minor, Fatal,Non-fatal,serious or incidents</font>)
+i) The injury severity category it falls into i.e (<font color='red'>Minor, Fatal,Non-fatal,serious or incidents</font>)
 
 ii)The level of damage to the aircraft i.e (<font color='red'>Destroyed, substantial or minor</font>)
 
-iii)The total number of **fatalies**, of **serious** injuries and of **uninjured**
+iii)The total number of **fatalities**, of **serious** injuries and of **uninjured**
 
-iv)Category of the aircraft whther its **personal**, **business** among others
+iv)Purpose of flight whether its **personal**, **business** among others
 
 ### Data Analysis
 This project uses descriptive analysis, including description of  makes/models by risk factor and with all risks combined as well. This provides a useful overview of on your best model to use depending on the risk you are willing to take and if none which model/make is best to use.
@@ -42,9 +42,9 @@ I grouped the results based on whether it is private or public category
 
 ![](Commercial_MinoraircraftDamge.png)
 
-## <u><font color='red'>3. **`Overall`** low_risk aicrafts with greater no of uninjured,Incidents  and minor Aicraft Damage</font></u>
+## <u><font color='red'>3. **`Overall`** low_risk Aircrafts with greater no of uninjured, has Incidents  and minor Aircraft Damage</font></u>
 #### a)Private
-`Boeing 747-123` followed by `Cessna 337D` the `Cessna 550 Bravo`
+`Boeing 747-123` followed by `Cessna 337D` then `Cessna 550 Bravo`
 
 ![](Overall_Private.PNG)
 #### b)Commercial
